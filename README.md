@@ -36,3 +36,5 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 
+## Social Links
+- [Github](https://github.com/J0HJOH/HNG-Internship)- Github Repository
